@@ -7,7 +7,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "tsc && node ./"
+    "start": "tsc && node ./",
+    "pair": "node ./pair.js"
   },
   "dependencies": {
     "axios": "^1.2.1",
